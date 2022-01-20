@@ -1,0 +1,14 @@
+LIBRARY "FunctionLib"
+
+EXPORTS
+Add @ 1
+Minus @ 2
+GetArray @ 3
+GetClass @ 4
+GetXVersion @ 5
+GetStruct @ 6
+FreeStruct @ 7
+DelegateCall @ 8
+CallGetAge @ 9
+CallGetVolumn @ 10
+CallReName @ 11
